@@ -1,4 +1,4 @@
-ProductCrudApp
+**ProductCrudApp**
 ProductCrudApp is a simple Java application built using the Spring JDBC framework. This application allows you to perform basic CRUD (Create, Read, Update, Delete) operations on a collection of products. It serves as a starting point for developers who want to learn how to use Spring JDBC to interact with a relational database.
 
 Table of Contents
